@@ -28,5 +28,4 @@ https://www.kaggle.com/datasets/rohanrao/air-quality-data-in-india
 - Seasonal AQI Analysis
 - Pollutants Heatmap
 - Delhi vs Mumbai Comparison
-- # AQI---Analysis---India
-AIr Quality Index Analysis of Indian Cities using Python and Power BI
+  
